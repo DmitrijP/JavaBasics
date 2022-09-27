@@ -6,8 +6,12 @@ public class Main {
         System.out.println("Hello world!");
         a();
         ab();
+        featureMethodA();
     }
-
+    public static void featureMethodA(){
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+    }
     public static void a(){
         System.out.println("Hello world!");
         System.out.println("Hello world!");
