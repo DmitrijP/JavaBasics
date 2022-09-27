@@ -7,8 +7,20 @@ public class Main {
         a();
         ab();
         featureMethodA();
+        featureMethodC();
+        featureMethodBA();
     }
     public static void featureMethodA(){
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+    }
+
+    public static void featureMethodC(){
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+    }
+
+    public static void featureMethodBA(){
         System.out.println("Hello world!");
         System.out.println("Hello world!");
     }
