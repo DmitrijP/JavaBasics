@@ -1,7 +1,7 @@
-# 2. Java Basics: GIT Sourcecodeverwaltung
+# 2. Java Basics: GIT Sourcecode Verwaltung
 
 ## Ziel
-Erstellen einer GITHUB Repository und Hinzufügen eines IntelliJ Projektes zu GIT.
+Erstellen einer GitHub Repository und Hinzufügen eines IntelliJ Projektes zu GIT.
 ```
 git init
 git add
