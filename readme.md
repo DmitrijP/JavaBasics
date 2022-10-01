@@ -1,15 +1,7 @@
-# 2. Java Basics: GIT Sourcecode Verwaltung
+# 3. Java Basics: OOP Klassen, Objekte und Konstruktoren
 
 ## Ziel
-Erstellen einer GitHub Repository und Hinzufügen eines IntelliJ Projektes zu GIT.
-```
-git init
-git add
-git commit -m "My Commit"
-git remote add origin URLToTheGitRepository
-git push
-```
-
+Was sind Klassen, Objekte und Konstruktoren? Wie verwendet man diese?
 
 ## Aufgabe
 Entwickle eine Nutzerverwaltung. Es möglich sein Benutzer anzulegen und zu entfernen.  
