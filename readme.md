@@ -1,7 +1,7 @@
-# 3. Java Basics: OOP Klassen, Objekte und Konstruktoren
+# 4. Java Basics: Getter und Setter Methoden
 
 ## Ziel
-Was sind Klassen, Objekte und Konstruktoren? Wie verwendet man diese?
+Was sind Getter und Setter Methoden? Wie verwendet man diese?
 
 ## Aufgabe
 Entwickle eine Nutzerverwaltung. Es möglich sein Benutzer anzulegen und zu entfernen.  
